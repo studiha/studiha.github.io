@@ -10,17 +10,19 @@
   <body>
     <div />
     <script>
+
+      var session = { user : {
+        username: 'tester@localhost.io',
+        profile: { displayName: 'Tester', fullName: 'Tester', email: ['tester@localhost.io'],},
+      }};
+      var __data = { route: 'signin', targetOrigin: 'https://studiha.github.io', status: 200, session: session };
+
       postMessage('iframe.loaded',  {height: 615, width: 460});
 
       var href = document.location.href;
       var name = href.split("?")[1].split("&")[0].split("=")[1].trim().toLocaleLowerCase();
 
       if (name === "signin") {
-        var session = { user : {
-          username: 'tester@localhost.io',
-          profile: { displayName: 'Tester', fullName: 'Tester', email: ['tester@localhost.io'],},
-        }};
-        var __data = { route: 'signin', targetOrigin: 'https://studiha.github.io', status: 200, session: session };
         setTimeout(function() {
           postMessage('iframe.done', { status: window.__data.status, session: window.__data.session });
         },1000);
