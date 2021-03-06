@@ -1,0 +1,14 @@
+[
+  {
+    "id": "emb",
+    "title": "Embedded System Engineering",
+    "description": "blank",
+    "courses": ["c-01", "c-02"]
+  },
+  {
+    "id": "linux",
+    "title": "Embedded Linux Developer",
+    "description": "blank",
+    "courses": ["c-01", "c-02", "c-03", "c-04"]
+  }
+]

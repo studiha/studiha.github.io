@@ -1,0 +1,17 @@
+[
+  {
+    "id": "newyear",
+    "type": "discount",
+    "scopes": [
+      { "courseId": "c-01", "value": 100000 },
+      { "courseId": "c-02", "value": 100000 }
+    ]
+  },
+  {
+    "id": "giveboard",
+    "type": "gift",
+    "scopes": [
+      { "courseId": "c-02", "value": "board01" }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "c-01",
+    "title": "Beginning Embedded C Programming",
+    "snippet": "C Programming for beginner, good for one who want to learn about C and Embedded Programming",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*z8cxJptPtl2JEERdYXChkQ.png",
+    "level": 1,
+    "tags": ["best"],
+    "price": 499000,
+    "skills": [
+      "C Programming", "ARM Programming"
+    ]
+  },
+  {
+    "id": "c-02",
+    "title": "Applied C for Embedded ARM System",
+    "snippet": "Advanced C Programming, ARM embedded processor and with pratice on famous STM32 series",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*z8cxJptPtl2JEERdYXChkQ.png",
+    "level": 2,
+    "tags": ["best"],
+    "price": 699000,
+    "skills": [
+      "C Programming", "ARM Programming"
+    ]
+  },
+  {
+    "id": "c-03",
+    "title": "Embedded programming with STM32",
+    "snippet": "C Programming for beginner, good for one who want to learn about C and Embedded Programming",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*z8cxJptPtl2JEERdYXChkQ.png",
+    "level": 1,
+    "price": 499000,
+    "skills": [
+      "C Programming", "ARM Programming"
+    ]
+  },
+  {
+    "id": "c-04",
+    "title": "Embedded programming with CMSIS",
+    "snippet": "Advanced C Programming, ARM embedded processor and with pratice on famous STM32 series",
+    "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*z8cxJptPtl2JEERdYXChkQ.png",
+    "level": 2,
+    "tags": ["new"],
+    "price": 699000,
+    "skills": [
+      "C Programming", "ARM Programming"
+    ]
+  }
+]
