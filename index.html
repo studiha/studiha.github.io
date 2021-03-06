@@ -23,7 +23,17 @@
 
   <body>
     <div id="root" />
-    <script>window._env_data = { logoimgurl: '/public/img/logo.png' }</script>
+    <script>
+      window._env_data = {
+        endpoint: {
+          account: 'https://studiha.github.io',
+          programs: 'https://studiha.github.io/api/programs.json',
+          courses: 'https://studiha.github.io/api/courses.json',
+          promotions: 'https://studiha.github.io/api/promotions.json',
+        },
+        logoimgurl: 'https://studiha.github.io/public/img/logo.png',
+      };
+    </script>
     <script type="text/javascript" src="/assets/app.js" ></script>
   </body>
 
