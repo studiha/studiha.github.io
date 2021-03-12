@@ -17,6 +17,36 @@
       body,h1 {font-family: "Raleway", sans-serif}
       .text-bold { font-weight: bold; }
       .outline-none { outline: none; }
+
+      .embed-responsive {
+        position : relative;
+        padding-bottom : 56.25%;
+        padding-top : 0px;
+        height : 100%;
+        overflow : hidden;
+        clear : both;
+        z-index: -1;
+      }
+      .embed-responsive iframe,
+      .embed-responsive img {
+        position : absolute;
+        top : 0;
+        left : 0;
+        width : 100%;
+        height : 100%;
+        border: 0;
+      }
+
+      div.sticky {
+        position: -webkit-sticky; /* Safari */
+        position: sticky;
+        top: 0;
+      }
+
+      .cursor-pointer {
+        cursor: pointer;
+      }
+
     </style>
 
   </head>
@@ -26,15 +56,15 @@
     <script>
       window._env_data = {
         endpoint: {
-          account: 'https://studiha.github.io',
-          programs: 'https://studiha.github.io/api/programs.json',
-          courses: 'https://studiha.github.io/api/courses.json',
-          promotions: 'https://studiha.github.io/api/promotions.json',
+          account: 'http://localhost:3100',
+          programs: 'http://localhost:3500/programs',
+          courses: 'http://localhost:3500/courses',
+          promotions: 'http://localhost:3500/promotions',
         },
-        logoimgurl: 'https://studiha.github.io/public/img/logo.png',
+        logoimgurl: 'http://localhost:3500/img/logo.png',
       };
     </script>
-    <script type="text/javascript" src="/assets/app.js" ></script>
+    <script type="text/javascript" src="/assets/app.bundle.js" ></script>
   </body>
 
 </html>

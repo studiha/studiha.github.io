@@ -1,0 +1,73 @@
+{
+  "id": "c-02",
+  "title": "Applied C for Embedded ARM System",
+  "snippet": "Advanced C Programming, ARM embedded processor and with pratice on famous STM32 series",
+  "description": "Lorem ipsum dolor sit amet, vel apeirian argumentum et, maluisset patrioque ex mei, at ius natum vitae facete. Reque scripta convenire nec at, mea te adipisci patrioque complectitur, cu prodesset conceptam inciderint pro. Ius ne percipitur quaerendum. Et eos eros alterum evertitur, te eros delenit torquatos pro. Aperiri facilisis percipitur vix ne. No sed nulla dissentiunt neglegentur, justo omnium ea vim, at sea dicat paulo nominavi. Solum vocent pertinacia ea sed, congue invenire reformidans cum an, cum quem decore splendide et. Laboramus definiebas vix ad, nec ex illud audiam, qui officiis probatus te. Alia delectus sit et, ad mei eleifend reformidans, duo in vero vidisse malorum. Ne vim ipsum dolores erroribus, ex elit perfecto mei, nam no verear luptatum percipitur.",
+  "thumbnail": "https://cdn-images-1.medium.com/max/1200/1*z8cxJptPtl2JEERdYXChkQ.png",
+  "level": 2,
+  "tags": ["best"],
+  "price": 699000,
+  "skills": [
+    "C Programming", "ARM Programming"
+  ],
+  "benefits": [
+    {
+      "heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      ],
+      "image" : "http://localhost:3500/img/shop.jpeg"
+    },
+    {
+      "heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      ],
+      "image" : "http://localhost:3500/img/school.png"
+    },
+    {
+      "heading": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      ],
+      "image" : "http://localhost:3500/img/shop.jpeg"
+    }
+  ],
+  "content" : [
+    {
+      "heading": "Lorem ipsum dolor sit amet",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      ],
+      "media": ["video", "quiz"]
+    },
+    {
+      "heading": "Lorem ipsum dolor sit amet",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      ],
+      "media": ["video", "quiz"]
+    },
+    {
+      "heading": "Lorem ipsum dolor sit amet",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      ],
+      "media": ["video", "quiz"]
+    },
+    {
+      "heading": "Lorem ipsum dolor sit amet",
+      "detail": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      ],
+      "media": ["video", "quiz"]
+    }
+  ]
+}
